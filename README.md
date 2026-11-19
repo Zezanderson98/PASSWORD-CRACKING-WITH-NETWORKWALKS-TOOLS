@@ -298,3 +298,21 @@ Cybersecurity Professional B084
 LinkedIn: https://www.linkedin.com/in/anderson-edaiyo-bab74117b
 
 
+
+
+
+## 📊 Project Information Matrix
+
+> **Note:**  
+> This repository contains the complete documentation, environment blueprints, and live verification logs for my Week 03 specialized laboratory deployment focusing on browser-based cryptographic hash extraction, dictionary-driven password auditing, and credential recovery.
+
+| 🗂️ Project Parameter | ⚙️ Live Deployment Data |
+| :--- | :--- |
+| **Program Track** | Cybersecurity with Ethical Hacking |
+| **Academy Module** | Networkwalks Academy Portfolio Matrix |
+| **Timeline Horizon** | Week 03 Engineering Core |
+| **Project Identity** | Password Cracking with NetworkWalks Tools |
+| **Target Task ID** | TASK W3-PM2 |
+| **Code Repository** | Public Deployment Hub via GitHub |
+
+
